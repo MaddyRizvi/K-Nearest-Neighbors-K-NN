@@ -66,8 +66,6 @@ This project implements a **K-Nearest Neighbors (K-NN)** classification model on
 
 ---
 
-## 🤝 How to Contribute
-
 We welcome contributions to improve this notebook or extend the model! Here's how you can help:
 
 1. **Fork the repository** (if hosted on GitHub).
@@ -107,8 +105,6 @@ For suggestions or queries, feel free to open an issue or contact the maintainer
 
 
 ---
-
-## 📄 License
 
 This project is licensed under the **MIT License**.
 
