@@ -63,6 +63,10 @@ This project implements a **K-Nearest Neighbors (K-NN)** classification model on
   - Accuracy Score
 - **Visualization**:
   - Colored decision boundaries for both training and test data
+    
+![Image](https://github.com/user-attachments/assets/0f900341-7616-44e7-8fe0-6cd21f5501a0)
+
+![Image](https://github.com/user-attachments/assets/947eb617-6f4f-4c83-afea-2d07d3dd1928)
 
 ---
 
